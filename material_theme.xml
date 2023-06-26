@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="ff9800" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="accentColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-12535dd6:188f5922d3c:-8000" />
     <option name="version" value="7.14.2" />

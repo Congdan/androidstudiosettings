@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp" />
         <option value="package:com.pccw.nowelauncher.staging LandingMenuFragment" />
         <option value="package:com.pccw.nowelauncher.staging logutils" />
         <option value="package:mine  okhttp" />

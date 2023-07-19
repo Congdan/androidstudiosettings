@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine epgdetail level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine epgdetail level:error " />
         <option value="package:mine epgdetail" />
-        <option value="package:mine " />
         <option value="package:mine LogUtils" />
         <option value="package:mine okhttp" />
         <option value="package:com.pccw.nowelauncher.staging LandingMenuFragment" />

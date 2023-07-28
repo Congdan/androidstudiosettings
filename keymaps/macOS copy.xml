@@ -2,6 +2,9 @@
   <action id="Android.BuildApk">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="Android.BuildBundle">
+    <keyboard-shortcut first-keystroke="shift meta alt n" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta y" />

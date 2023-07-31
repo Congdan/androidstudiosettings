@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine nmaf" />
         <option value="package:mine" />
         <option value="package:mine Non Sports" />
-        <option value="package:mine " />
         <option value="package:mine epgdetail level:error " />
         <option value="package:mine epgdetail" />
         <option value="package:mine LogUtils" />
